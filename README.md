@@ -10,14 +10,7 @@ My name is Nicolas Puegher and I'm a software developer.
 
 ### :eyes: What I'm working on
 - Building a weather app with React
-- Frontend Mentor challenges
-- Codewars challenges
-
-### :hearts: What I do on my free time
-- Callistenics
-- DJing
-- Write web novels
-- Watch football
+- Coding challenges
 
 <br />
 
