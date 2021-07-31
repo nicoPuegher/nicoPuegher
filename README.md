@@ -2,18 +2,14 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Nicolas Puegher and I'm a software developer.
-
-<br />
-
-## Overview
-
-### :eyes: What I'm working on
-- Building a weather app with React
-- Coding challenges
+My name is Nicolas and I'm a software developer interested in web and mobile apps.
 
 <br />
 
 ## Stack
 
-<img src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-html-markup-develop-layout-language-512.png" width="50px"><img src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-css-style-develop-layout-language-512.png" width="50px"><img src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-512.png" width="50px"><img src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/react-512.png" width="50px"><img src="https://cdn0.iconfinder.com/data/icons/designer-skills/128/node-js-512.png" width="50px"><img src="https://i.ibb.co/q79n2GJ/New-Project-2.png" width="50px"><img src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/sass-512.png" width="50px"><img src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/github-repository-svn-manage-files-contribute-branch-512.png" width="50px">
+HTML <br/>
+CSS <br/>
+JavaScript <br/>
+React <br/>
+MongoDB <br/>
