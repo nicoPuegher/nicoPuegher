@@ -9,7 +9,9 @@ I'm a software developer and people call me Nico.
 ## Stack
 
 HTML <br/>
-CSS <br/>
+CSS - <i>(Bootstrap)</i> <br/>
 JavaScript <br/>
 React <br/>
-MongoDB <br/>
+Node - <i>(Express)</i> <br />
+MongoDB - <i>(Mongoose)</i> <br/>
+Firebase
