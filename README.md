@@ -2,7 +2,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Nicolas and I'm a software developer interested in web and mobile apps.
+I'm a software developer and people call me Nico.
 
 <br />
 
