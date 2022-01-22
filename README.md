@@ -15,9 +15,9 @@ I'm Nico, a frontend developer from Buenos Aires.
   stack: {
     html,
     css: 'Bootstrap',
-    javascript: 'EJS, Lodash, Redux, MD5',
+    javascript: 'EJS, Redux',
     react: 'Hooks, Custom Hooks, Portals, Styled Components, React Redux, Redux Toolkit, React Router',
-    node: 'Express, Bcrypt, Passport, Axios',
+    node: 'Express, Bcrypt, Passport, Axios, Lodash, MD5',
     mongodb: 'Mongoose',
     firebase,
   },
