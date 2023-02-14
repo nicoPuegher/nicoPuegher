@@ -17,14 +17,15 @@ I'm Nico, a frontend developer from Buenos Aires.
     css: 'Bootstrap',
     javascript: 'ES6+, Redux, EJS, Modules',
     react: 'Hooks, React Context, React Router, Custom Hooks, Portals, React Redux, Redux Toolkit, Styled Components, Compound Components, Prop Types',
-    node: 'Npm, Express, Axios, Cors, Dotenv, Bcrypt, Passport, Lodash, MD5',
+    node: 'Npm, Express, Axios, Dotenv, Bcrypt, Passport, Lodash, MD5',
+    testing: 'Jest',
     databases: {
       mongodb: 'Mongoose',
       firebase,
-      astradb,
     },
     compiler: 'Babel, Webpack',
-    git: 'GitHub',
+    source-control: 'Git',
+    tools: 'ESLint, Chrome Dev, React Dev, Redux Dev',
   },
 };
 ```
