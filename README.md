@@ -1,4 +1,6 @@
+<p align="center">
 <img src="https://raw.githubusercontent.com/nicoPuegher/nicoPuegher/main/images/Header.jpg">
+</p>
 
 <h2 align="center">Technology Stack</h2>
 <!-- frontend -->
@@ -39,8 +41,8 @@
 
 <h2 align="center">GitHub Stats</h2>
 <p align="center">
-[![Nico's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nicoPuegher&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/nicoPuegher/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicoPuegher&count_private=true&layout=compact&theme=tokyonight)](https://github.com/nicoPuegher/github-readme-stats)
-
+<img src="https://github-readme-stats.vercel.app/api?username=nicoPuegher&count_private=true&show_icons=true&theme=tokyonight" />
+</p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicoPuegher&count_private=true&layout=compact&theme=tokyonight" />
 </p>
