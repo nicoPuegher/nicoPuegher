@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/nicoPuegher/nicoPuegher/main/images/Header.jpg">
+<img src="https://raw.githubusercontent.com/nicoPuegher/nicoPuegher/main/images/new-header.jpg">
 </p>
 
 <h2 align="center">Technology Stack</h2>
@@ -43,12 +43,4 @@
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
 <!-- macos -->
 <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0"/>
-</p>
-
-<h2 align="center">GitHub Stats</h2>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=nicoPuegher&count_private=true&show_icons=true&theme=tokyonight" />
-</p>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicoPuegher&count_private=true&layout=compact&theme=tokyonight" />
 </p>
