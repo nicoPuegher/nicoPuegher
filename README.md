@@ -1,4 +1,4 @@
-<h2 align="center">Technology Stack</h2>
+<h2 align="center">Stack</h2>
 <!-- frontend -->
 <p align="center">
 <!-- html -->
