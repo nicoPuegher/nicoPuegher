@@ -1,7 +1,3 @@
-<p align="center">
-<img src="https://raw.githubusercontent.com/nicoPuegher/nicoPuegher/main/images/new-header.jpg">
-</p>
-
 <h2 align="center">Technology Stack</h2>
 <!-- frontend -->
 <p align="center">
