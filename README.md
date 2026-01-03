@@ -1,4 +1,5 @@
-### Hello there 👋
-I am Nicolas, a dedicated software developer with 2.5 years of experience in crafting high-quality web applications, solving complex problems, and delivering efficient production code. I specialize in building seamless, user-friendly interfaces with a strong focus on performance and responsiveness.
+# Hello there 👋
 
-![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,git,github)
+Frontend Developer with 2 years of experience building web applications using JavaScript, TypeScript, React, HTML, CSS, Tailwind CSS, Git and GitHub. What drives me in development is the satisfaction of seeing people using my software, and I am motivated by the opportunity to create digital experiences that make a difference in people's lives.
+
+![My Skills](https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind,git,github)
