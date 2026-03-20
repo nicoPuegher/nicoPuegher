@@ -1,33 +1,42 @@
 # Hello there 👋, I'm Nico
 
-### Frontend Developer | Software Engineering Student @ UADE
-Building high-performance web applications with a focus on user experience and clean code.
+### Software Engineer | Frontend Specialist | Backend Enthusiast | CS Student @ UADE
+Building high-performance systems with a focus on **Scalability** and **Clean Code**.
 
 ---
 
 ### 🚀 About Me
 - 🎓 Currently pursuing a **B.S. in Software Engineering** at **UADE** (Expected 2030). 
-- 💼 **2+ years of experience** developing in the React ecosystem.
-- ⌨️ Power user of **Neovim** and the **Terminal** (macOS/Linux) for an efficient development workflow.
+- 💼 **2+ years of experience** in the React/TypeScript ecosystem, transitioning into **Backend Engineering (Go)**.
+- ⌨️ Power user of **Neovim** and the **Terminal** (macOS/Linux) for an efficient, keyboard-driven workflow.
 - 📈 Proven track record of optimizing web performance by **12%** and increasing user retention by **10%**.
-- 🌎 **English C1 (Fluent)** - Ready for international collaboration.
+- 🌎 **English C1 (Fluent)** - IELTS Certified.
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
 #### Languages & Core
+![My Skills](https://skillicons.dev/icons?i=js,ts,go,python,postgres,html,css,c)
+> *Deepening my expertise in **Go** for high-performance backend services.*
 
-![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,python,c)
+#### Frameworks, Backend & State
+![Frameworks](https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,redux,express)
+> *Experience with **Zustand**, **shadcn/ui**, **JWT/Auth**, and **GSAP** for advanced animations.*
 
-#### Frameworks, Libraries & State
+#### Environment & DevOps
+![Tools](https://skillicons.dev/icons?i=git,github,docker,neovim,apple,linux)
 
-![Frameworks](https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,styledcomponents)
-> Experience with Zustand, shadcn/ui, and GSAP for advanced animations)
+---
 
-#### Tools & Environment
+### 🌟 Featured Projects
 
-![Tools](https://skillicons.dev/icons?i=git,github,neovim,apple,linux,vite,figma,postman,vercel)
+- **[Things to Do](https://github.com/nicoPuegher/ts-lab/tree/main/to-do)** | `TypeScript`
+> A keyboard-accessible task engine focused on type safety and persistent data integrity.
+- **[Sorting Visualizer](https://github.com/nicopuegher/sorting-visualizer)** | `JavaScript` `React`
+> Visualizing fundamental CS algorithms to explore time and space complexity (**Big O**).
+- **[Expenses Tracker](https://github.com/nicopuegher/expenses-tracker)** | `React` `Tailwind CSS`
+> Financial management tool with dynamic data visualization and filtering.
 
 ---
 
@@ -38,17 +47,6 @@ Building high-performance web applications with a focus on user experience and c
 
 ---
 
-### 🌟 Featured Projects
-
-- **[Things to Do](https://github.com/nicoPuegher/ts-lab/tree/main/to-do)** | `TypeScript`
-> Focus on full keyboard accessibility and persistent data integrity.
-- **[Sorting Visualizer](https://github.com/nicopuegher/sorting-visualizer)** | `JavaScript` `React`
-> Visualizing fundamental CS algorithms to make complex ideas accessible.
-- **[Expenses Tracker](https://github.com/nicopuegher/expenses-tracker)** | `React` `Tailwind CSS`
-> Financial management tool with dynamic data visualization and filtering.
-    
----
-
 ### 📫 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-puegher)
@@ -56,3 +54,5 @@ Building high-performance web applications with a focus on user experience and c
 ---
 
 > *“What drives me is seeing people use my software to solve real-world problems.”*
+
+---
