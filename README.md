@@ -1,15 +1,15 @@
 # Hello there 👋, I'm Nico
 
-### Software Engineer | Frontend Specialist | Backend Enthusiast | CS Student @ UADE
-Building high-performance systems with a focus on **Scalability** and **Clean Code**.
+### Software Engineer | Backend & Systems Specialist | CS Student @ UADE
+Building high-performance systems with a focus on **Scalability**, **Automation**, and **Clean Architecture**.
 
 ---
 
 ### 🚀 About Me
-- 🎓 Currently pursuing a **B.S. in Software Engineering** at **UADE** (Expected 2030). 
-- 💼 **2+ years of experience** in the React/TypeScript ecosystem, transitioning into **Backend Engineering (Go)**.
-- ⌨️ Power user of **Neovim** and the **Terminal** (macOS/Linux) for an efficient, keyboard-driven workflow.
-- 📈 Proven track record of optimizing web performance by **12%** and increasing user retention by **10%**.
+- 🎓 **B.E. in Computer Science** student at **UADE** (Expected 2030). Focus on OS and Computer Architecture.
+- 💼 **2+ years of experience** delivering scalable technical solutions, now focusing on **Go** and high-performance backend systems.
+- ⌨️ Natural curiosity for building my own tools and scripts to automate everything in my workflow.
+- 📈 Proven track record of optimizing system performance by **12%** and increasing user retention by **10%**.
 - 🌎 **English C1 (Fluent)** - IELTS Certified.
 
 ---
@@ -17,26 +17,22 @@ Building high-performance systems with a focus on **Scalability** and **Clean Co
 ### 🛠️ Tech Stack & Tools
 
 #### Languages & Core
-![My Skills](https://skillicons.dev/icons?i=js,ts,go,python,postgres,html,css,c)
-> *Deepening my expertise in **Go** for high-performance backend services.*
+![My Skills](https://skillicons.dev/icons?i=go,python,js,ts,postgres,c)
+> *Currently deepening my expertise in **Go** for distributed systems and concurrent services.*
 
-#### Frameworks, Backend & State
-![Frameworks](https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,redux,express)
-> *Experience with **Zustand**, **shadcn/ui**, **JWT/Auth**, and **GSAP** for advanced animations.*
+#### Backend & Infrastructure
+![Frameworks](https://skillicons.dev/icons?i=nodejs,express,docker,git)
+> *Experience with **REST APIs**, **RBAC**, **JWT/Auth**, and server-side automation.*
 
-#### Environment & DevOps
-![Tools](https://skillicons.dev/icons?i=git,github,docker,neovim,apple,linux)
+#### Environment & Productivity
+![Tools](https://skillicons.dev/icons?i=linux,bash,github,neovim)
 
 ---
 
 ### 🌟 Featured Projects
 
-- **[Things to Do](https://github.com/nicoPuegher/ts-lab/tree/main/to-do)** | `TypeScript`
-> A keyboard-accessible task engine focused on type safety and persistent data integrity.
-- **[Sorting Visualizer](https://github.com/nicopuegher/sorting-visualizer)** | `JavaScript` `React`
-> Visualizing fundamental CS algorithms to explore time and space complexity (**Big O**).
-- **[Expenses Tracker](https://github.com/nicopuegher/expenses-tracker)** | `React` `Tailwind CSS`
-> Financial management tool with dynamic data visualization and filtering.
+- **[Resume Builder](https://github.com/nicoPuegher/resume-builder)** | `Go`
+> A CLI tool that converts Markdown files into clean, ATS-friendly PDF resumes. Built from scratch in **Go** with zero external dependencies to ensure maximum performance and portability.
 
 ---
 
@@ -53,6 +49,6 @@ Building high-performance systems with a focus on **Scalability** and **Clean Co
 
 ---
 
-> *“What drives me is seeing people use my software to solve real-world problems.”*
+> *"Turning curiosity into tools that streamline the way we work."*
 
 ---
